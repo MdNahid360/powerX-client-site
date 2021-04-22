@@ -1,0 +1,19 @@
+.i{
+    width:70px!important;
+  }
+
+ .i img{
+     width: 100%!important;
+ }
+
+ .ic{ 
+     padding:0px !important;
+     font-size: 25px!important;
+ }
+ .box4{
+     width: 100% !important;
+     height: 500px !important;
+     background-image:url(../../../img/Untitled\ design.gif);
+     background-size: cover;
+     background-repeat: no-repeat;
+ }

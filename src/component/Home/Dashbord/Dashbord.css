@@ -1,0 +1,20 @@
+.menu{
+    height: 100vh !important;
+    background: rgb(154, 0, 243)!important;
+    color: white!important;
+}
+li{
+    color: white!important;
+}
+
+.form{
+    width: 80%!important;
+    text-align: start!important;
+}
+.form input{
+    width: 100%!important;
+    float: left!important;
+}
+.form label{
+    text-align: start!important;
+}

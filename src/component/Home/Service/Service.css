@@ -1,0 +1,22 @@
+.ln{
+    color: rgb(0, 102, 255);
+    position: relative;
+    width: 190px;
+    height:60px;
+    margin: auto;
+}
+
+.ln::after{
+    content: '';
+    border-radius: 80px;
+    position: absolute;
+    display: block;
+    width:70%;
+    margin: auto;
+    height:6px;
+     right:0;
+    bottom: 0px;
+    top: 30px;
+    left:0px!important;
+    background-color: rgb(0, 102, 255);
+}
