@@ -12,8 +12,7 @@ import Login from './component/Home/Login/Login';
 import { createContext, useState } from 'react';
 import './component/Home/Login/login.css';
 import PrivateRoute from './component/PrivateRoute/PrivateRoute';
-import DashbordData from './component/Home/DashbordData/DashbordData';
-import Dashbord from './component/Home/Dashbord/Dashbord';
+ import Dashbord from './component/Home/Dashbord/Dashbord';
 export const UserContext = createContext(); 
 function App() {
 

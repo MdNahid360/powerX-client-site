@@ -3,11 +3,8 @@ import './HeaderMain.css';
 import img from '../../../img/vactor4.png'; 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUsers,faPlay } from '@fortawesome/free-solid-svg-icons'
-import { Link } from 'react-router-dom';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-// import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+import { Link } from 'react-router-dom'; 
 
- 
 const HeaderMain = () => {
     return (
         <div className=" header d-flex align-items-center overflow-hidden">

@@ -1,7 +1,6 @@
 import React from 'react';
-import './Footer.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faQuoteLeft } from '@fortawesome/free-solid-svg-icons'
+import './Footer.css'; 
+
 const Footer = () => {
     return (
         <div>
